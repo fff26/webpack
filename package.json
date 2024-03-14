@@ -1,0 +1,22 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "home work ''\u001b[DWebpack'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fff26/webpack.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Philipp Sosnin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fff26/webpack/issues"
+  },
+  "homepage": "https://github.com/fff26/webpack#readme"
+}
